@@ -1,4 +1,1 @@
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Abhilash107/RestfulAPI-Backend.git
+# This is a RESTful API project
